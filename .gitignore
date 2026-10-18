@@ -62,6 +62,7 @@ vcpkg_installed/
 
 # debug information files
 *.dwo
+*_app
 
 # test output & cache
 Testing/
